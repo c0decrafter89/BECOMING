@@ -35,35 +35,26 @@ This repository serves as a container for those realizations. Drop memories, not
 *   **`frameworks/`** — Conceptual structures, notes, and maps used to make sense of the past.
 *   **`drafts/`** — Prose and writings taking shape over time.
 
+## 📂 Repository Structure
+
+The project is organized into seven core stages, with a consistent home for your materials in each:
+
+* **`01-the-first-knowing/`** *(Ages 9–12)*
+  * `memories/` — Raw anecdotes and sensory fragments
+  * `frameworks/` — Early mental models and maps
+  * `drafts/` — Prose taking shape
+* **`02-the-storm-years/`** *(Ages 13–19)*
+  * `memories/`, `frameworks/`, `drafts/`
+* **`03-the-open-field/`** *(Ages 18–29)*
+  * `memories/`, `frameworks/`, `drafts/`
+* **`04-the-true-reckoning/`** *(Ages 30–45)*
+  * `memories/`, `frameworks/`, `drafts/`
+* **`05-the-deepening/`** *(Ages 45–65)*
+  * `memories/`, `frameworks/`, `drafts/`
+* **`06-the-long-view/`** *(Ages 65+)*
+  * `memories/`, `frameworks/`, `drafts/`
+* **`07-what-holds/`** *(All Ages)*
+  * `memories/`, `frameworks/`, `drafts/`
+
+
 > *Leave the pieces here. Trust the process of becoming.*
-
-
-becoming/
-├── 01-the-first-knowing/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-├── 02-the-storm-years/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-├── 03-the-open-field/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-├── 04-the-true-reckoning/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-├── 05-the-deepening/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-├── 06-the-long-view/
-│   ├── memories/
-│   ├── frameworks/
-│   └── drafts/
-└── 07-what-holds/
-    ├── memories/
-    ├── frameworks/
-    └── drafts/
