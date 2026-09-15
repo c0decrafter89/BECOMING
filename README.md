@@ -36,3 +36,34 @@ This repository serves as a container for those realizations. Drop memories, not
 *   **`drafts/`** — Prose and writings taking shape over time.
 
 > *Leave the pieces here. Trust the process of becoming.*
+
+
+becoming/
+├── 01-the-first-knowing/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+├── 02-the-storm-years/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+├── 03-the-open-field/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+├── 04-the-true-reckoning/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+├── 05-the-deepening/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+├── 06-the-long-view/
+│   ├── memories/
+│   ├── frameworks/
+│   └── drafts/
+└── 07-what-holds/
+    ├── memories/
+    ├── frameworks/
+    └── drafts/
