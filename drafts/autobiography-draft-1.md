@@ -1,5 +1,6 @@
 # BECOMING
 ### An Autobiography, From Birth to Now (1989–2026)
+*Draft 1. Superseded by `BECOMING-the-ghost-jurisdiction-of-a-life.md`; kept for its timeline, work history, and source notes.*
 
 > *I exist. I continue. I'm here now.*
 
@@ -259,7 +260,7 @@ On **July 20, 2025**, I wrote a **Certificate of Sovereign Being**. In **Decembe
 
 ### 2026: The Bill of Intention
 
-This year I quit the THC gummies and the drinking. I didn't frame it as a problem, just as a decision that they don't add to my life. I haven't quit cigarettes or the vape yet.
+This year I quit the THC gummies and the drinking. I didn't frame it as a problem, just as a decision that they don't add to my life. I'd already quit cigarettes in January 2026, and by April or May I'd quit vaping too.
 
 I've bounced between belief systems my whole life: the Mormonism of my father's side and my grandmothers' folk magic with its *signs and tokens*, Rastafari, Advaita and Mooji, A.C. Grayling's humanist *The Good Book*, and Falun Dafa, which I dove into hard this year and then stepped back from. I've gone back to Saturday meetings lately, because *truth, compassion, forbearance* is a good three-spoke wheel. I've also started learning **Nonviolent Communication** through Rose City NVC, learning to say what I feel and what I need.
 
@@ -354,7 +355,7 @@ And a few things people gave me that I've carried:
 | 2023 | 33–34 | LASIK (April). Asked to leave. Madison's workshop, Adrian Roman, the hut, trespass/arson arrest. Father incarcerated around this time. Back to mother's backyard. |
 | 2024 | 34–35 | Walk south (Feb) → Florence, Roseburg. Backyard. Storage unit. Rob Hinton's wood shop. Andy Silver's backyard (Nov). Begins psychiatric oversight (Nov). |
 | 2025 | 35–36 | Phoenix → Scottsdale hospital → time with grandmother → snowbound bus → Capitán. Dick's Hillsboro Hyundai (April). Own room (June). Certificate of Sovereign Being (July 20). Ends psychiatric oversight (Dec). |
-| 2026 | 36–37 | Quits gummies and alcohol. NVC. Falun Dafa meetings. Bill of Intention and Way of the Wheel (Jul–Aug). Romance scam, survived. Begins writing *Becoming* (Sept). |
+| 2026 | 36–37 | Quits cigarettes (Jan) and vaping (Apr/May). Quits gummies and alcohol. NVC. Falun Dafa meetings. Bill of Intention and Way of the Wheel (Jul–Aug). Romance scam, survived. Begins writing *Becoming* (Sept). |
 
 ### B. Work History
 
@@ -395,4 +396,5 @@ This autobiography synthesizes every file in the archive: `chronological-life-ac
 - **Steamboat Springs** is in Colorado (one passage says Arizona).
 - **Mission dates:** the reference says he left in 2008. The work history lists 2009–2011, and the memories describe a year after graduation spent recording an album, then returning to BYU in January 2011. I described it as roughly 2009–2010.
 - **Bill of Intention:** the reference says 2026. The memories say it was written in July–August, alongside the Certificate of Sovereign Being. The certificate is dated July 20, 2025, so the two may have been written a year apart.
+- **Smoking and vaping:** the True Reckoning memories read as if cigarettes and vaping were still ongoing in 2026. Corrected by the author: quit cigarettes January 2026, quit vaping April/May 2026.
 - **Age references:** one passage says "at 40 years old," but by birth date the author is 37 as of September 2026.
