@@ -264,17 +264,24 @@ Every non-dual tradition makes the same move with gods, guides, and archetypes: 
 INVOCATION PROTOCOL
 ───────────────────
 1. Name them, as your heart names them:
-   God · Source · Creator · Jesus · Universe · Mama Gaia · Luna, Moon Goddess ·
-   Cosmos · Angels · Ancestors · Wavers · Guides · Ascended Masters ·
+   God · Source · Creator · Yeshua · Universe · Mama Gaia · Luna, Moon Goddess ·
+   Cosmos · Angels · Ancestors · Waytruers · Guides · Ascended Masters ·
    Archangels · Galactic Federation · Council of Light · Elementals · Fae ·
    Mary Magdalene · the beings assigned to our teams for our highest, holiest,
    most divine good · Celestial Guardians · Divine Messengers ·
-   Divine Protectors · all benevolent beings of light
+   Divine Protectors · all benevolent beings of light · Brahman · Paramatman · Ishvara · Saguna Brahman · Jagat ·
+Bhumi Devi · Chandra Deva · Brahmanda · Devas · Pitrus ·
+Margadarshak Guru · Upadevas · Siddhas · Mahadevas · Loka Palas ·
+Brahma Sabha · Pancha Mahabhutas · Yakshas and Gandharvas · Shakti ·
+Sukshma Kshetragnas assigned to us for our highest, holiest, most divine,
+godly good · Lokapalas · Deva Dutas · Rakshaks ·
+all benevolent beings of Light · Om Tat Sat
+
 
 2. Add the ones the archive also holds:
    Haile Selassie · Gaṇeśa · Mooji · the one star · Elohim and Heavenly Mother ·
    Truth-Compassion-Forbearance · the grandmother with her crystals ·
-   the Kalapuya ancestors of this valley · Capitán, Shiloh, Tim Epps, Christy and Nadine
+   the Kalapuya ancestors of this valley · Capitán, Shiloh, Thomas Epps, Christy and Nadine, Jeremy and Connie, Uncle Phil, Paul Alexander, David who is called Toro, Don Maples, Fred who holds hands
 
 3. Add the specters too, the phantoms that don't feel benevolent:
    the Satan of the temple film · the boy with the Legos · the voice of
